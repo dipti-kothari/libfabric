@@ -9,7 +9,7 @@ of the Open Fabrics Interfaces (OFI) framework.
 
 Libfabric has the following objectives:
 
-* High-performance: provide optimized software paths to hardware
+* High-performance: provide optimized software paths to hardwa
   - Independent of hardware implementations
 * Scalable: targets support for millions of processes
   - Designed to reduce cache and memory footprint
